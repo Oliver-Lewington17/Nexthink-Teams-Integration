@@ -1,1 +1,3 @@
 # Nexthink-Teams-Integration
+
+Changes:
